@@ -1,0 +1,316 @@
+body{
+    background-color: #F6F8F9;
+
+}
+header{
+    padding: 20px;
+    position: fixed;
+    top: 0px;
+    width:100% ;
+    height: 70px;
+    /* z-index:999; */
+    z-index: 1;
+    
+}
+.logo{
+    font-size:20px;
+    margin-top: -5px;
+    display: inline-block;
+    vertical-align:top;
+    margin-right: 92px;
+    color: #FA6980;
+    margin-left: 20px;
+    
+    
+}
+nav{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.image{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -6px;
+}
+
+li{
+    display: inline-block;
+    margin-right: 22px;
+    font-size: 16px;
+}
+.image{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 40px;
+    clip-path:circle(50%);
+}
+.second{
+    color:#A6ADB4;
+}
+.second1{
+    color:#343638 ;
+}
+.title{
+    font-size: 24px;
+    color: #202124;
+    margin-top: 100px;
+    margin-left: 90px;
+}
+.image2{
+    width: 360px;
+    height: 180px;
+    border-radius: 6px 6px 0px 0px;
+}
+
+.wrapper{
+    position: relative;
+}
+
+.section{
+    display:inline-block ;
+    vertical-align:bottom ;
+    margin-left: 40px;
+}
+
+.otxkutxedi{
+
+    background-color: #ffffff;
+    width:360px ;
+    height:360px ;
+    margin-top: 40px;
+    margin-left: 90px;
+}
+.text{
+    font-size: 16px;
+    color: #ffffff;
+    margin-top: 28px;
+    margin-left: 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.text2{
+   color: #A6ADB4;
+   font-size: 13px;
+   line-height: 23px;
+   margin-top: 76px;
+   margin-left: 40px;
+}
+.wre{
+margin-top: 124px;
+margin-left: 40px;
+width: 16px;
+height: 16px;
+background: #CBD0D3 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.clock {
+    border: 1.5px #CBD0D3 solid;
+    border-radius: 100%;
+    width: 16px;
+    height: 16px;
+    margin: 0 0px 0 0;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.clocktime{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 12px;
+    color: #A6ADB4;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+/* second block */
+
+.section2{
+    display: inline-block;
+    vertical-align: bottom;
+    /* margin-right: 10px; */
+}
+.otxkutxedi2{
+    background-color: #ffffff;
+    width:360px ;
+    height:360px ;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+/* thirti block */
+.section3{
+    display: inline-block;
+    vertical-align: bottom;
+    margin-left: 0px;
+
+}
+.otxkutxedi3{
+    background-color: #ffffff;
+    width:360px ;
+    height:360px ;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+/* section4 start */
+.photos{
+    display: inline-block;
+    vertical-align: middle;
+}
+.photos2{
+    margin-bottom: 40px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.title2{
+    font-size: 24px;
+    color: #202124;
+    margin-top: 90px;
+    margin-left: 130px;
+}
+.bridge{
+    width: 760px;
+    height: 430px;
+    border-radius: 6px;
+    margin-top: 40px;
+    margin-left: 130px;
+    margin-bottom: 40px;
+}
+.forest{
+    width: 760px;
+    height: 430px;
+    border-radius: 6px;
+    margin-left: 130px;
+    margin-bottom: 37px;
+}
+
+.elephant{
+
+    width: 360px;
+    height: 210px;
+    border-radius: 6px;
+    margin-left: 40px;
+    margin-bottom: 102px;
+    margin-top: 100px;
+}
+.parrots{
+    width: 360px;
+    height: 210px;
+    border-radius: 6px;
+    margin-left: 40px;
+    margin-bottom: 102px;
+}
+.forestway{
+    width: 360px;
+    height: 210px;
+    border-radius: 6px;
+    margin-left: 40px;
+}
+
+
+
+
+
+
+
+
+
+/* footer start */
+
+.martkutxedi{
+    width: 100%;
+    height: 200px;
+    background-color: #A6ADB4;
+    position: relative;
+}
+.footerlogo{
+    position: absolute;
+    top: 0;
+    left: 0;    
+    font-size: 13px;
+    color: #ffffff;
+    margin-top: 58px;
+    margin-left: 142px;
+
+}
+
+.footertext{
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 13px;
+    color: #CBD0D3;
+    line-height: 20px;
+    margin-left: 268px;
+    margin-top: 56px;
+}
+
+
+.footertext2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 13px;
+    color: #CBD0D3;
+    line-height: 20px;
+    margin-left: 400px;
+    margin-top: 56px;
+}
+
+.footertext3{
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 13px;
+    color: #CBD0D3;
+    line-height: 20px;
+    margin-left: 550px;
+    margin-top: 56px;
+}
+
+.footertext4{
+    font-size: 11px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #CBD0D3;
+    line-height: 20px;
+    margin-left: 733px;
+    margin-top: 62px;
+}
+
+.absolute{
+position: absolute;
+top: 0;
+left: 0;
+}
+
+.footerlogo2{
+width: 16px;
+height: 16px;
+margin-top: 65px;
+margin-left: 1141px;
+
+
+}
+.twitter{
+    width: 16px;
+    height: 16px;
+    margin-left: 30px;
+}
+.facebook{
+    width: 12px;
+    height: 16px;
+    margin-left: 30px;
+}
+
+.globe{
+    width: 16px;
+    height: 16px;
+    margin-left: 30px;
+}
